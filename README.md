@@ -27,6 +27,7 @@ Acessar no browser a URL:
 ```
 http://localhost:8000
 ```
+Se houver algum problema tentando acessar a aplicação, tente excluir o arquivo **db/vao_fazer.db** e descompactar o conteúdo do arquivo **db/vao_fazer.zip**. Algumas vezes ocorre o corrompimento desse arquivo durante as transferências.
 
 [cake3]:http://cakephp.org
 [bs3]:http://getbootstrap.com
